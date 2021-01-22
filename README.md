@@ -1,6 +1,4 @@
 # Databehandling_Eksperimental3
-22-01-2021
-
 Author: Simon S. Villadsen
 
 Collaborators: Erik Steenberg, Esben J. Porat & Kasper Larsen.
