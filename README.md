@@ -1,7 +1,8 @@
 # Databehandling_Eksperimental3
-# 22-01-2021
-# Author: Simon S. Villadsen
-# Collaborators: Erik Steenberg, Esben J. Porat & Kasper Larsen.
+22-01-2021
+Author: Simon S. Villadsen
+Collaborators: Erik Steenberg, Esben J. Porat & Kasper Larsen.
+
 Pakke til databehandling i eksperimental kursus på Fysisk Institut, Aarhus.
 Husk at sætte roden i den arbejdene dictionary.
 
